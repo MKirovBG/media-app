@@ -7,6 +7,8 @@ import {
 	Navbar,
 	SearchFeed,
 	VideoDetail,
+	SideBar,
+	Videos,
 } from './components';
 
 const App = () => {
@@ -26,5 +28,3 @@ const App = () => {
 };
 
 export default App;
-
-
