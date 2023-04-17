@@ -28,3 +28,5 @@ const App = () => {
 };
 
 export default App;
+
+// https://www.youtube.com/watch?v=dyFVwXROzZk&t=2412s&ab_channel=JavaScriptMastery 50:48
